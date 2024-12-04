@@ -1,0 +1,652 @@
+{
+  "atoms": [
+    {
+      "atomicNum": 1,
+      "name": "هیدروژن",
+      "symbol": "H",
+      "ion": "1+/-",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 2,
+      "name": "هلیم",
+      "symbol": "He",
+      "ion": "",
+      "group": "s",
+      "status": 0,
+      "tableGroup": 18
+    },
+    {
+      "atomicNum": 3,
+      "name": "لیتیم",
+      "symbol": "Li",
+      "ion": "1+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 4,
+      "name": "برلیم",
+      "symbol": "Be",
+      "ion": "",
+      "group": "s",
+      "status": 0,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 5,
+      "name": "بور",
+      "symbol": "B",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 13
+    },
+    {
+      "atomicNum": 6,
+      "name": "کربن",
+      "symbol": "C",
+      "ion": "4-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 14
+    },
+    {
+      "atomicNum": 7,
+      "name": "نیتروژن",
+      "symbol": "N",
+      "ion": "3-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 15
+    },
+    {
+      "atomicNum": 8,
+      "name": "اکسیژن",
+      "symbol": "O",
+      "ion": "2-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 16
+    },
+    {
+      "atomicNum": 9,
+      "name": "فلئور",
+      "symbol": "F",
+      "ion": "1-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 17
+    },
+    {
+      "atomicNum": 10,
+      "name": "نئون",
+      "symbol": "Ne",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 18
+    },
+    {
+      "atomicNum": 11,
+      "name": "سدیم",
+      "symbol": "Na",
+      "ion": "1+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 12,
+      "name": "منیزیم",
+      "symbol": "Mg",
+      "ion": "2+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 13,
+      "name": "آلومینیم",
+      "symbol": "Al",
+      "ion": "3+",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 13
+    },
+    {
+      "atomicNum": 14,
+      "name": "سیلیسیم",
+      "symbol": "Si",
+      "ion": "4+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 14
+    },
+    {
+      "atomicNum": 15,
+      "name": "فسفور",
+      "symbol": "P",
+      "ion": "3-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 15
+    },
+    {
+      "atomicNum": 16,
+      "name": "گوگرد",
+      "symbol": "S",
+      "ion": "2-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 16
+    },
+    {
+      "atomicNum": 17,
+      "name": "کلر",
+      "symbol": "Cl",
+      "ion": "1-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 17
+    },
+    {
+      "atomicNum": 18,
+      "name": "آرگون",
+      "symbol": "Ar",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 18
+    },
+    {
+      "atomicNum": 19,
+      "name": "پتاسیم",
+      "symbol": "K",
+      "ion": "1+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 20,
+      "name": "کلسیم",
+      "symbol": "Ca",
+      "ion": "2+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 21,
+      "name": "اسکاندیم",
+      "symbol": "Sc",
+      "ion": "3+",
+      "group": "d",
+      "status": 1,
+      "tableGroup": 3
+    },
+    {
+      "atomicNum": 22,
+      "name": "تیتانیوم",
+      "symbol": "Ti",
+      "ion": "4+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 4
+    },
+    {
+      "atomicNum": 23,
+      "name": "وانادیوم",
+      "symbol": "V",
+      "ion": "5+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 5
+    },
+    {
+      "atomicNum": 24,
+      "name": "کروم",
+      "symbol": "Cr",
+      "ion": "6+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 6
+    },
+    {
+      "atomicNum": 25,
+      "name": "منگنز",
+      "symbol": "Mn",
+      "ion": "7+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 7
+    },
+    {
+      "atomicNum": 26,
+      "name": "آهن",
+      "symbol": "Fe",
+      "ion": "2+/3+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 8
+    },
+    {
+      "atomicNum": 27,
+      "name": "کبالت",
+      "symbol": "Co",
+      "ion": "2+/3+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 9
+    },
+    {
+      "atomicNum": 28,
+      "name": "نیکل",
+      "symbol": "Ni",
+      "ion": "2+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 10
+    },
+    {
+      "atomicNum": 29,
+      "name": "مس",
+      "symbol": "Cu",
+      "ion": "1+/2+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 11
+    },
+    {
+      "atomicNum": 30,
+      "name": "روی",
+      "symbol": "Zn",
+      "ion": "2+",
+      "group": "d",
+      "status": 1,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 31,
+      "name": "گالیوم",
+      "symbol": "Ga",
+      "ion": "3+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 13
+    },
+    {
+      "atomicNum": 32,
+      "name": "ژرمانیوم",
+      "symbol": "Ge",
+      "ion": "4+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 14
+    },
+    {
+      "atomicNum": 33,
+      "name": "آرسنیک",
+      "symbol": "As",
+      "ion": "3-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 15
+    },
+    {
+      "atomicNum": 34,
+      "name": "سلنیم",
+      "symbol": "Se",
+      "ion": "2-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 16
+    },
+    {
+      "atomicNum": 35,
+      "name": "برم",
+      "symbol": "Br",
+      "ion": "1-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 7
+    },
+    {
+      "atomicNum": 36,
+      "name": "کریپتون",
+      "symbol": "Kr",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 18
+    },
+    {
+      "atomicNum": 37,
+      "name": "روبیدیم",
+      "symbol": "Rb",
+      "ion": "1+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 38,
+      "name": "استرانسیوم",
+      "symbol": "Sr",
+      "ion": "2+",
+      "group": "s",
+      "status": 0,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 39,
+      "name": "ایتریم",
+      "symbol": "Y",
+      "ion": "3+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 3
+    },
+    {
+      "atomicNum": 40,
+      "name": "زیرکونیم",
+      "symbol": "Zr",
+      "ion": "4+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 4
+    },
+    {
+      "atomicNum": 41,
+      "name": "نیوبیم",
+      "symbol": "Nb",
+      "ion": "5+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 5
+    },
+    {
+      "atomicNum": 42,
+      "name": "مولیبدن",
+      "symbol": "Mo",
+      "ion": "6+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 6
+    },
+    {
+      "atomicNum": 43,
+      "name": "تکنسیم",
+      "symbol": "Tc",
+      "ion": "7+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 7
+    },
+    {
+      "atomicNum": 44,
+      "name": "روتنیم",
+      "symbol": "Ru",
+      "ion": "4+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 8
+    },
+    {
+      "atomicNum": 45,
+      "name": "رودیم",
+      "symbol": "Rh",
+      "ion": "",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 8
+    },
+    {
+      "atomicNum": 46,
+      "name": "پالادیم",
+      "symbol": "Pd",
+      "ion": "2+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 9
+    },
+    {
+      "atomicNum": 47,
+      "name": "نقره",
+      "symbol": "Ag",
+      "ion": "1+",
+      "group": "d",
+      "status": 1,
+      "tableGroup": 0
+    },
+    {
+      "atomicNum": 48,
+      "name": "کادمیم",
+      "symbol": "Cd",
+      "ion": "2+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 49,
+      "name": "ایندیم",
+      "symbol": "In",
+      "ion": "3+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 13
+    },
+    {
+      "atomicNum": 50,
+      "name": "قلع",
+      "symbol": "Sn",
+      "ion": "4+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 14
+    },
+    {
+      "atomicNum": 51,
+      "name": "آنتیموان",
+      "symbol": "Sb",
+      "ion": "3-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 15
+    },
+    {
+      "atomicNum": 52,
+      "name": "تلوریم",
+      "symbol": "Te",
+      "ion": "2-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 16
+    },
+    {
+      "atomicNum": 53,
+      "name": "ید",
+      "symbol": "I",
+      "ion": "1-",
+      "group": "p",
+      "status": 1,
+      "tableGroup": 7
+    },
+    {
+      "atomicNum": 54,
+      "name": "زنون",
+      "symbol": "Xe",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 18
+    },
+    {
+      "atomicNum": 55,
+      "name": "سزیم",
+      "symbol": "Cs",
+      "ion": "1+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 1
+    },
+    {
+      "atomicNum": 56,
+      "name": "باریم",
+      "symbol": "Ba",
+      "ion": "2+",
+      "group": "s",
+      "status": 1,
+      "tableGroup": 2
+    },
+    {
+      "atomicNum": 71,
+      "name": "لوتسیم",
+      "symbol": "Lu",
+      "ion": "3+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 3
+    },
+    {
+      "atomicNum": 72,
+      "name": "هافنیم",
+      "symbol": "Hf",
+      "ion": "4+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 4
+    },
+    {
+      "atomicNum": 73,
+      "name": "تانتال",
+      "symbol": "Ta",
+      "ion": "5+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 5
+    },
+    {
+      "atomicNum": 74,
+      "name": "تنگستن",
+      "symbol": "W",
+      "ion": "6+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 6
+    },
+    {
+      "atomicNum": 75,
+      "name": "رنیم",
+      "symbol": "Re",
+      "ion": "7+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 7
+    },
+    {
+      "atomicNum": 76,
+      "name": "اسمیم",
+      "symbol": "Os",
+      "ion": "8+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 8
+    },
+    {
+      "atomicNum": 77,
+      "name": "ایریدیم",
+      "symbol": "Ir",
+      "ion": "4+/5+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 9
+    },
+    {
+      "atomicNum": 78,
+      "name": "پلاتین",
+      "symbol": "Pt",
+      "ion": "2+/4+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 10
+    },
+    {
+      "atomicNum": 79,
+      "name": "طلا",
+      "symbol": "Au",
+      "ion": "1+/3+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 11
+    },
+    {
+      "atomicNum": 80,
+      "name": "جیوه",
+      "symbol": "Hg",
+      "ion": "1+/2+",
+      "group": "d",
+      "status": 0,
+      "tableGroup": 12
+    },
+    {
+      "atomicNum": 81,
+      "name": "تالیم",
+      "symbol": "Tl",
+      "ion": "1+/2+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 3
+    },
+    {
+      "atomicNum": 82,
+      "name": "سرب",
+      "symbol": "Pb",
+      "ion": "2+/4+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 4
+    },
+    {
+      "atomicNum": 83,
+      "name": "بیسموت",
+      "symbol": "Bi",
+      "ion": "3+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 15
+    },
+    {
+      "atomicNum": 84,
+      "name": "پولونیم",
+      "symbol": "Po",
+      "ion": "2+",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 16
+    },
+    {
+      "atomicNum": 85,
+      "name": "استاتین",
+      "symbol": "At",
+      "ion": "1-",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 17
+    },
+    {
+      "atomicNum": 86,
+      "name": "رادون",
+      "symbol": "Rn",
+      "ion": "",
+      "group": "p",
+      "status": 0,
+      "tableGroup": 18
+    }
+  ]
+}
