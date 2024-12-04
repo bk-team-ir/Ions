@@ -16,7 +16,7 @@
       "ion": "",
       "group": "s",
       "status": 0,
-      "tableGroup": 18
+      "tableGroup": 2
     },
     {
       "atomicNum": 3,
@@ -43,7 +43,7 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 13
+      "tableGroup": 3
     },
     {
       "atomicNum": 6,
@@ -52,7 +52,7 @@
       "ion": "4-",
       "group": "p",
       "status": 0,
-      "tableGroup": 14
+      "tableGroup": 4
     },
     {
       "atomicNum": 7,
@@ -61,7 +61,7 @@
       "ion": "3-",
       "group": "p",
       "status": 1,
-      "tableGroup": 15
+      "tableGroup": 5
     },
     {
       "atomicNum": 8,
@@ -70,7 +70,7 @@
       "ion": "2-",
       "group": "p",
       "status": 1,
-      "tableGroup": 16
+      "tableGroup": 6
     },
     {
       "atomicNum": 9,
@@ -79,7 +79,7 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 17
+      "tableGroup": 7
     },
     {
       "atomicNum": 10,
@@ -88,7 +88,7 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 18
+      "tableGroup": 8
     },
     {
       "atomicNum": 11,
@@ -115,7 +115,7 @@
       "ion": "3+",
       "group": "p",
       "status": 1,
-      "tableGroup": 13
+      "tableGroup": 3
     },
     {
       "atomicNum": 14,
@@ -124,7 +124,7 @@
       "ion": "4+",
       "group": "p",
       "status": 0,
-      "tableGroup": 14
+      "tableGroup": 4
     },
     {
       "atomicNum": 15,
@@ -133,7 +133,7 @@
       "ion": "3-",
       "group": "p",
       "status": 1,
-      "tableGroup": 15
+      "tableGroup": 5
     },
     {
       "atomicNum": 16,
@@ -142,7 +142,7 @@
       "ion": "2-",
       "group": "p",
       "status": 1,
-      "tableGroup": 16
+      "tableGroup": 6
     },
     {
       "atomicNum": 17,
@@ -151,7 +151,7 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 17
+      "tableGroup": 7
     },
     {
       "atomicNum": 18,
@@ -160,7 +160,7 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 18
+      "tableGroup": 8
     },
     {
       "atomicNum": 19,
