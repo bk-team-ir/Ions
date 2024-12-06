@@ -7,7 +7,8 @@
       "ion": "1+/-",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hydrogen_spectrum_visible.png"
     },
     {
       "atomicNum": 2,
@@ -16,7 +17,8 @@
       "ion": "",
       "group": "s",
       "status": 0,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Helium_spectrum_visible.png"
     },
     {
       "atomicNum": 3,
@@ -25,7 +27,8 @@
       "ion": "1+",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lithium_spectrum_visible.png/1200px-Lithium_spectrum_visible.png"
     },
     {
       "atomicNum": 4,
@@ -34,7 +37,8 @@
       "ion": "",
       "group": "s",
       "status": 0,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beryllium_spectrum_visible.png/1200px-Beryllium_spectrum_visible.png"
     },
     {
       "atomicNum": 5,
@@ -43,7 +47,8 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 3
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Boron_spectrum_visible.png"
     },
     {
       "atomicNum": 6,
@@ -52,7 +57,8 @@
       "ion": "4-",
       "group": "p",
       "status": 0,
-      "tableGroup": 4
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carbon_spectrum_visible.png/1200px-Carbon_spectrum_visible.png"
     },
     {
       "atomicNum": 7,
@@ -61,7 +67,8 @@
       "ion": "3-",
       "group": "p",
       "status": 1,
-      "tableGroup": 5
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nitrogen_spectrum_visible.png/1200px-Nitrogen_spectrum_visible.png"
     },
     {
       "atomicNum": 8,
@@ -70,7 +77,8 @@
       "ion": "2-",
       "group": "p",
       "status": 1,
-      "tableGroup": 6
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oxygen_spectrum_visible.png/1200px-Oxygen_spectrum_visible.png"
     },
     {
       "atomicNum": 9,
@@ -79,7 +87,8 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fluorine_spectrum_visible.png/1200px-Fluorine_spectrum_visible.png"
     },
     {
       "atomicNum": 10,
@@ -88,7 +97,8 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 8
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Neon_spectrum_visible.png/1200px-Neon_spectrum_visible.png"
     },
     {
       "atomicNum": 11,
@@ -97,7 +107,8 @@
       "ion": "1+",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sodium_spectrum_visible.png/1200px-Sodium_spectrum_visible.png"
     },
     {
       "atomicNum": 12,
@@ -106,7 +117,8 @@
       "ion": "2+",
       "group": "s",
       "status": 1,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magnesium_spectrum_visible.png/1200px-Magnesium_spectrum_visible.png"
     },
     {
       "atomicNum": 13,
@@ -115,7 +127,8 @@
       "ion": "3+",
       "group": "p",
       "status": 1,
-      "tableGroup": 3
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aluminium_spectrum_visible.png/1200px-Aluminium_spectrum_visible.png"
     },
     {
       "atomicNum": 14,
@@ -124,7 +137,8 @@
       "ion": "4+",
       "group": "p",
       "status": 0,
-      "tableGroup": 4
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silicon_spectrum_visible.png/1200px-Silicon_spectrum_visible.png"
     },
     {
       "atomicNum": 15,
@@ -133,7 +147,8 @@
       "ion": "3-",
       "group": "p",
       "status": 1,
-      "tableGroup": 5
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phosphorus_spectrum_visible.png/1200px-Phosphorus_spectrum_visible.png"
     },
     {
       "atomicNum": 16,
@@ -142,7 +157,8 @@
       "ion": "2-",
       "group": "p",
       "status": 1,
-      "tableGroup": 6
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sulfur_spectrum_visible.png/1200px-Sulfur_spectrum_visible.png"
     },
     {
       "atomicNum": 17,
@@ -151,7 +167,8 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chlorine_spectrum_visible.png/1200px-Chlorine_spectrum_visible.png"
     },
     {
       "atomicNum": 18,
@@ -160,7 +177,8 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 8
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Argon_spectrum_visible.png/1200px-Argon_spectrum_visible.png"
     },
     {
       "atomicNum": 19,
@@ -169,7 +187,8 @@
       "ion": "1+",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Potassium_spectrum_visible.png/1200px-Potassium_spectrum_visible.png"
     },
     {
       "atomicNum": 20,
@@ -178,7 +197,8 @@
       "ion": "2+",
       "group": "s",
       "status": 1,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Calcium_spectrum_visible.png/1200px-Calcium_spectrum_visible.png"
     },
     {
       "atomicNum": 21,
@@ -187,7 +207,8 @@
       "ion": "3+",
       "group": "d",
       "status": 1,
-      "tableGroup": 3
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scandium_spectrum_visible.png/1200px-Scandium_spectrum_visible.png"
     },
     {
       "atomicNum": 22,
@@ -196,7 +217,8 @@
       "ion": "4+",
       "group": "d",
       "status": 0,
-      "tableGroup": 4
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Titanium_spectrum_visible.png/1200px-Titanium_spectrum_visible.png"
     },
     {
       "atomicNum": 23,
@@ -205,7 +227,8 @@
       "ion": "5+",
       "group": "d",
       "status": 0,
-      "tableGroup": 5
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanadium_spectrum_visible.png/1200px-Vanadium_spectrum_visible.png"
     },
     {
       "atomicNum": 24,
@@ -214,7 +237,8 @@
       "ion": "6+",
       "group": "d",
       "status": 0,
-      "tableGroup": 6
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chromium_spectrum_visible.png/1200px-Chromium_spectrum_visible.png"
     },
     {
       "atomicNum": 25,
@@ -223,7 +247,8 @@
       "ion": "7+",
       "group": "d",
       "status": 0,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manganese_spectrum_visible.png/1200px-Manganese_spectrum_visible.png"
     },
     {
       "atomicNum": 26,
@@ -232,7 +257,8 @@
       "ion": "2+/3+",
       "group": "d",
       "status": 0,
-      "tableGroup": 8
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Iron_spectrum_visible.png/1200px-Iron_spectrum_visible.png"
     },
     {
       "atomicNum": 27,
@@ -241,7 +267,8 @@
       "ion": "2+/3+",
       "group": "d",
       "status": 0,
-      "tableGroup": 9
+      "tableGroup": 9,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cobalt_spectrum_visible.png/1200px-Cobalt_spectrum_visible.png"
     },
     {
       "atomicNum": 28,
@@ -250,7 +277,8 @@
       "ion": "2+",
       "group": "d",
       "status": 0,
-      "tableGroup": 10
+      "tableGroup": 0,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nickel_spectrum_visible.png/1200px-Nickel_spectrum_visible.png"
     },
     {
       "atomicNum": 29,
@@ -259,7 +287,8 @@
       "ion": "1+/2+",
       "group": "d",
       "status": 0,
-      "tableGroup": 11
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copper_spectrum_visible.png/1200px-Copper_spectrum_visible.png"
     },
     {
       "atomicNum": 30,
@@ -268,7 +297,8 @@
       "ion": "2+",
       "group": "d",
       "status": 1,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zinc_spectrum_visible.png/1200px-Zinc_spectrum_visible.png"
     },
     {
       "atomicNum": 31,
@@ -277,7 +307,8 @@
       "ion": "3+",
       "group": "p",
       "status": 0,
-      "tableGroup": 13
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gallium_spectrum_visible.png/1200px-Gallium_spectrum_visible.png"
     },
     {
       "atomicNum": 32,
@@ -286,7 +317,8 @@
       "ion": "4+",
       "group": "p",
       "status": 0,
-      "tableGroup": 14
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Germanium_spectrum_visible.png/1200px-Germanium_spectrum_visible.png"
     },
     {
       "atomicNum": 33,
@@ -295,7 +327,8 @@
       "ion": "3-",
       "group": "p",
       "status": 0,
-      "tableGroup": 15
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arsenic_spectrum_visible.png/1200px-Arsenic_spectrum_visible.png"
     },
     {
       "atomicNum": 34,
@@ -304,7 +337,8 @@
       "ion": "2-",
       "group": "p",
       "status": 0,
-      "tableGroup": 16
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Selenium_spectrum_visible.png/1200px-Selenium_spectrum_visible.png"
     },
     {
       "atomicNum": 35,
@@ -313,7 +347,8 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bromine_spectrum_visible.png/1200px-Bromine_spectrum_visible.png"
     },
     {
       "atomicNum": 36,
@@ -322,7 +357,8 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 18
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Krypton_spectrum_visible.png/1200px-Krypton_spectrum_visible.png"
     },
     {
       "atomicNum": 37,
@@ -331,7 +367,8 @@
       "ion": "1+",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rubidium_spectrum_visible.png/1200px-Rubidium_spectrum_visible.png"
     },
     {
       "atomicNum": 38,
@@ -340,7 +377,8 @@
       "ion": "2+",
       "group": "s",
       "status": 0,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Strontium_spectrum_visible.png/1200px-Strontium_spectrum_visible.png"
     },
     {
       "atomicNum": 39,
@@ -349,7 +387,8 @@
       "ion": "3+",
       "group": "d",
       "status": 0,
-      "tableGroup": 3
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yttrium_spectrum_visible.png/1200px-Yttrium_spectrum_visible.png"
     },
     {
       "atomicNum": 40,
@@ -358,7 +397,8 @@
       "ion": "4+",
       "group": "d",
       "status": 0,
-      "tableGroup": 4
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zirconium_spectrum_visible.png/1200px-Zirconium_spectrum_visible.png"
     },
     {
       "atomicNum": 41,
@@ -367,7 +407,8 @@
       "ion": "5+",
       "group": "d",
       "status": 0,
-      "tableGroup": 5
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Niobium_spectrum_visible.png/1200px-Niobium_spectrum_visible.png"
     },
     {
       "atomicNum": 42,
@@ -376,7 +417,8 @@
       "ion": "6+",
       "group": "d",
       "status": 0,
-      "tableGroup": 6
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Molybdenum_spectrum_visible.png/1200px-Molybdenum_spectrum_visible.png"
     },
     {
       "atomicNum": 43,
@@ -385,7 +427,8 @@
       "ion": "7+",
       "group": "d",
       "status": 0,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Technetium_spectrum_visible.png/1200px-Technetium_spectrum_visible.png"
     },
     {
       "atomicNum": 44,
@@ -394,7 +437,8 @@
       "ion": "4+",
       "group": "d",
       "status": 0,
-      "tableGroup": 8
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruthenium_spectrum_visible.png/1200px-Ruthenium_spectrum_visible.png"
     },
     {
       "atomicNum": 45,
@@ -403,7 +447,8 @@
       "ion": "",
       "group": "d",
       "status": 0,
-      "tableGroup": 8
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/1200px-Rhodium_spectrum_visible.png"
     },
     {
       "atomicNum": 46,
@@ -412,7 +457,8 @@
       "ion": "2+",
       "group": "d",
       "status": 0,
-      "tableGroup": 9
+      "tableGroup": 9,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/1200px-Rhodium_spectrum_visible.png"
     },
     {
       "atomicNum": 47,
@@ -421,7 +467,8 @@
       "ion": "1+",
       "group": "d",
       "status": 1,
-      "tableGroup": 0
+      "tableGroup": 0,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Silver_spectrum_visible.png/1200px-Silver_spectrum_visible.png"
     },
     {
       "atomicNum": 48,
@@ -430,7 +477,8 @@
       "ion": "2+",
       "group": "d",
       "status": 0,
-      "tableGroup": 2
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cadmium_spectrum_visible.png/1200px-Cadmium_spectrum_visible.png"
     },
     {
       "atomicNum": 49,
@@ -439,7 +487,8 @@
       "ion": "3+",
       "group": "p",
       "status": 0,
-      "tableGroup": 13
+      "tableGroup": 3,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indium_spectrum_visible.png/1200px-Indium_spectrum_visible.png"
     },
     {
       "atomicNum": 50,
@@ -448,7 +497,8 @@
       "ion": "4+",
       "group": "p",
       "status": 0,
-      "tableGroup": 14
+      "tableGroup": 4,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tin_spectrum_visible.png/1200px-Tin_spectrum_visible.png"
     },
     {
       "atomicNum": 51,
@@ -457,7 +507,8 @@
       "ion": "3-",
       "group": "p",
       "status": 0,
-      "tableGroup": 15
+      "tableGroup": 5,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Antimony_spectrum_visible.png/1200px-Antimony_spectrum_visible.png"
     },
     {
       "atomicNum": 52,
@@ -466,7 +517,8 @@
       "ion": "2-",
       "group": "p",
       "status": 0,
-      "tableGroup": 16
+      "tableGroup": 6,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tellurium_spectrum_visible.png/1200px-Tellurium_spectrum_visible.png"
     },
     {
       "atomicNum": 53,
@@ -475,7 +527,8 @@
       "ion": "1-",
       "group": "p",
       "status": 1,
-      "tableGroup": 7
+      "tableGroup": 7,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iodine_spectrum_visible.png/1200px-Iodine_spectrum_visible.png"
     },
     {
       "atomicNum": 54,
@@ -484,7 +537,8 @@
       "ion": "",
       "group": "p",
       "status": 0,
-      "tableGroup": 18
+      "tableGroup": 8,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Xenon_spectrum_visible.png/1200px-Xenon_spectrum_visible.png"
     },
     {
       "atomicNum": 55,
@@ -493,7 +547,8 @@
       "ion": "1+",
       "group": "s",
       "status": 1,
-      "tableGroup": 1
+      "tableGroup": 1,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caesium_spectrum_visible.png/1200px-Caesium_spectrum_visible.png"
     },
     {
       "atomicNum": 56,
@@ -502,151 +557,66 @@
       "ion": "2+",
       "group": "s",
       "status": 1,
-      "tableGroup": 2
-    },
-    {
-      "atomicNum": 71,
-      "name": "لوتسیم",
-      "symbol": "Lu",
-      "ion": "3+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 3
-    },
-    {
-      "atomicNum": 72,
-      "name": "هافنیم",
-      "symbol": "Hf",
-      "ion": "4+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 4
-    },
-    {
-      "atomicNum": 73,
-      "name": "تانتال",
-      "symbol": "Ta",
-      "ion": "5+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 5
-    },
-    {
-      "atomicNum": 74,
-      "name": "تنگستن",
-      "symbol": "W",
-      "ion": "6+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 6
-    },
-    {
-      "atomicNum": 75,
-      "name": "رنیم",
-      "symbol": "Re",
-      "ion": "7+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 7
-    },
-    {
-      "atomicNum": 76,
-      "name": "اسمیم",
-      "symbol": "Os",
-      "ion": "8+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 8
-    },
-    {
-      "atomicNum": 77,
-      "name": "ایریدیم",
-      "symbol": "Ir",
-      "ion": "4+/5+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 9
-    },
-    {
-      "atomicNum": 78,
-      "name": "پلاتین",
-      "symbol": "Pt",
-      "ion": "2+/4+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 10
-    },
-    {
-      "atomicNum": 79,
-      "name": "طلا",
-      "symbol": "Au",
-      "ion": "1+/3+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 11
-    },
-    {
-      "atomicNum": 80,
-      "name": "جیوه",
-      "symbol": "Hg",
-      "ion": "1+/2+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 12
-    },
-    {
-      "atomicNum": 81,
-      "name": "تالیم",
-      "symbol": "Tl",
-      "ion": "1+/2+",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 3
-    },
-    {
-      "atomicNum": 82,
-      "name": "سرب",
-      "symbol": "Pb",
-      "ion": "2+/4+",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 4
-    },
-    {
-      "atomicNum": 83,
-      "name": "بیسموت",
-      "symbol": "Bi",
-      "ion": "3+",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 15
-    },
-    {
-      "atomicNum": 84,
-      "name": "پولونیم",
-      "symbol": "Po",
-      "ion": "2+",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 16
-    },
-    {
-      "atomicNum": 85,
-      "name": "استاتین",
-      "symbol": "At",
-      "ion": "1-",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 17
-    },
-    {
-      "atomicNum": 86,
-      "name": "رادون",
-      "symbol": "Rn",
-      "ion": "",
-      "group": "p",
-      "status": 0,
-      "tableGroup": 18
+      "tableGroup": 2,
+      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Barium_spectrum_visible.png/1200px-Barium_spectrum_visible.png"
     }
-  ]
+  ],
+  "electronConfigurations": {
+    "1": "1s<sup>1</sup>",
+    "2": "1s<sup>2</sup>",
+    "3": "1s<sup>2</sup> 2s<sup>1</sup>",
+    "4": "1s<sup>2</sup> 2s<sup>2</sup>",
+    "5": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>",
+    "6": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>",
+    "7": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>",
+    "8": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>",
+    "9": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>",
+    "10": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>",
+    "11": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>",
+    "12": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>",
+    "13": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup>",
+    "14": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>",
+    "15": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>3</sup>",
+    "16": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>4</sup>",
+    "17": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>5</sup>",
+    "18": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup>",
+    "19": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>1</sup>",
+    "20": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup>",
+    "21": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>1</sup> 4s<sup>2</sup>",
+    "22": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>2</sup> 4s<sup>2</sup>",
+    "23": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>3</sup> 4s<sup>2</sup>",
+    "24": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup>",
+    "25": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>2</sup>",
+    "26": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>6</sup> 4s<sup>2</sup>",
+    "27": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>7</sup> 4s<sup>2</sup>",
+    "28": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>8</sup> 4s<sup>2</sup>",
+    "29": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>1</sup>",
+    "30": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup>",
+    "31": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>1</sup>",
+    "32": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>2</sup>",
+    "33": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>3</sup>",
+    "34": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>",
+    "35": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>5</sup>",
+    "36": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup>",
+    "37": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 5s<sup>1</sup>",
+    "38": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 5s<sup>2</sup>",
+    "39": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>1</sup> 5s<sup>2</sup>",
+    "40": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>2</sup> 5s<sup>2</sup>",
+    "41": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>3</sup> 5s<sup>2</sup>",
+    "42": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>5</sup> 5s<sup>1</sup>",
+    "43": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>5</sup> 5s<sup>2</sup>",
+    "44": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>7</sup> 5s<sup>1</sup>",
+    "45": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>8</sup> 5s<sup>1</sup>",
+    "46": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>9</sup> 5s<sup>1</sup>",
+    "47": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>1</sup>",
+    "48": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 5s<sup>2</sup> 4d<sup>10</sup>",
+    "49": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>1</sup>",
+    "50": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>2</sup>",
+    "51": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>3</sup>",
+    "52": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>4</sup>",
+    "53": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>5</sup>",
+    "54": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup>",
+    "55": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup> 6s<sup>1</sup>",
+    "56": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup> 6s<sup>2</sup>"
+  }
 }

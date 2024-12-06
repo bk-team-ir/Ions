@@ -1,0 +1,128 @@
+@font-face {
+  font-family: vazir;
+  src: url(/assets/fonts/Vazirmatn-Regular.woff2);
+}
+
+body {
+  background-color: #212121;
+  font-family: vazir;
+  padding: 0 20px;
+}
+
+.box {
+  margin: 40px 30px;
+  padding: 20px;
+  background-image: linear-gradient(45deg, #649bff, #82db79);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #64e0ff;
+  position: absolute;
+  right: 80%;
+}
+
+.box .nums {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.box h2 {
+  font-size: 100px;
+}
+
+.box sub {
+  font-size: 50px;
+}
+
+.box sup {
+  font-size: 50px;
+}
+
+.name {
+  position: absolute;
+  top: 40px;
+  font-size: 50px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.layers {
+  position: absolute;
+  top: 130px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.layers h1:nth-child(2) {
+  margin-top: 30px;
+}
+
+.teif {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+    top: 250px;
+}
+
+.teif h1 {
+  font-size: 30px;
+  color: #fff;
+  margin-left: 20px;
+}
+
+.lweis {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+  top: 430px;
+}
+
+.lweis h1 {
+  font-size: 30px;
+  color: #fff;
+}
+
+.lweis .shape {
+  margin-right: 200px;
+}
+
+.lweis .shape h2 {
+  font-size: 30px;
+  color: #fff;
+}
+
+.shape {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+ 
+.shape .circle {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.circle.c1 {top: 0; right: 55%;} /* top */
+.circle.c2 {top: 35%; right: 0;} /* right */
+.circle.c3 {top: 85%; right: 55%;} /* bottom */
+.circle.c4 {top: 35%; right: 90%;} /* left */
+.circle.c5 {top: 0; right: 40%;} /* top */
+.circle.c6 {top: 50%; right: 0;} /* right */
+.circle.c7 {top: 85%; right: 40%;} /* bottom */
+.circle.c8 {top: 50%; right: 90%;} /* left */

@@ -11,9 +11,7 @@ function fetchJSONData() {
       const table = document.getElementById("table");
       atoms.map((atom) => {
         const box = `
-                    <button class="box ${atom.group}" ${
-          atom.status == 0 ? "disabled" : ""
-        } id="${atom.atomicNum}">
+                    <button class="box ${atom.group} ${atom.status == 0 ? "disallow" : ""}" id="${atom.atomicNum}">
                         <p class="group">${atom.tableGroup}</p>
                         <span>
                             <sub>${atom.atomicNum}</sub>
@@ -42,17 +40,27 @@ function fetchJSONData() {
         button.addEventListener("click", () => {
           const symbol = button.querySelector("h2").textContent;
           const ion = button.querySelector("sup").textContent;
+          const atomicNum = button.querySelector("sub").textContent;
           const lastLayer = button.querySelector(".group").textContent;
+          const info = confirm("آیا میخواهید اطلاعات این اتم نمایش داده شود؟");
 
-          if (!firstSelected) {
-            firstSelected = symbol;
-            firstBox.textContent = symbol;
-            firstIon = ion;
-            firstLastLayer = lastLayer;
+          if (info) {
+            window.location = `/details.html?atomicNum=${atomicNum}`;
           } else {
-            secondBox.textContent = symbol;
-            secondIon = ion;
-            secondLastLayer = lastLayer;
+            if (button.classList.contains("disallow")) {
+              alert("پیوند یونی تشکیل نمیدهد");
+            } else {
+              if (!firstSelected) {
+                firstSelected = symbol;
+                firstBox.textContent = symbol;
+                firstIon = ion;
+                firstLastLayer = lastLayer;
+              } else {
+                secondBox.textContent = symbol;
+                secondIon = ion;
+                secondLastLayer = lastLayer;
+              }
+            }
           }
         });
       });
@@ -63,26 +71,28 @@ function fetchJSONData() {
           if (firstIon === secondIon) {
             resultLeft.textContent = "این دو عنصر پیوند یونی تشکیل نمی دهند";
             resultRight.textContent = "";
-          }
-          else if(firstBox.textContent === "H" || secondBox.textContent === "H") {
+          } else if (
+            firstBox.textContent === "H" ||
+            secondBox.textContent === "H"
+          ) {
             if (firstBox.textContent === "H") {
-              resultLeft.innerHTML = secondBox.textContent
-              resultRight.innerHTML = `H<sub>${secondIon[0] == 1 ? "" : secondIon[0]}</sub>`
-            } 
-            else if (secondBox.textContent === "H") {
-              resultLeft.innerHTML = firstBox.textContent
-              resultRight.innerHTML = `H<sub>${firstIon[0] == 1 ? "" : firstIon[0]}</sub>`
+              resultLeft.innerHTML = secondBox.textContent;
+              resultRight.innerHTML = `H<sub>${
+                secondIon[0] == 1 ? "" : secondIon[0]
+              }</sub>`;
+            } else if (secondBox.textContent === "H") {
+              resultLeft.innerHTML = firstBox.textContent;
+              resultRight.innerHTML = `H<sub>${
+                firstIon[0] == 1 ? "" : firstIon[0]
+              }</sub>`;
             }
-          }
-          else if (firstIon === secondIon) {
+          } else if (firstIon === secondIon) {
             resultLeft.textContent = "این دو عنصر پیوند یونی تشکیل نمی دهند";
             resultRight.textContent = "";
-          }
-          else if (firstIon[1] === secondIon[1]) {
+          } else if (firstIon[1] === secondIon[1]) {
             resultLeft.textContent = "این دو عنصر پیوند یونی تشکیل نمی دهند";
             resultRight.textContent = "";
-          } 
-          else {
+          } else {
             if (firstIon[0] == secondIon[0]) {
               if (firstLastLayer < secondLastLayer) {
                 resultLeft.textContent = firstBox.textContent;
@@ -96,11 +106,19 @@ function fetchJSONData() {
               firstIon[0] - secondIon[0] > -3
             ) {
               if (firstLastLayer < secondLastLayer) {
-                resultLeft.innerHTML = `${firstBox.textContent}<sub>${secondIon[0] == 1 ? "" : secondIon[0]}</sub>`;
-                resultRight.innerHTML = `${secondBox.textContent}<sub>${firstIon[0] == 1 ? "" : firstIon[0]}</sub>`;
+                resultLeft.innerHTML = `${firstBox.textContent}<sub>${
+                  secondIon[0] == 1 ? "" : secondIon[0]
+                }</sub>`;
+                resultRight.innerHTML = `${secondBox.textContent}<sub>${
+                  firstIon[0] == 1 ? "" : firstIon[0]
+                }</sub>`;
               } else {
-                resultLeft.innerHTML = `${secondBox.textContent}<sub>${firstIon[0] == 1 ? "" : firstIon[0]}</sub>`;
-                resultRight.innerHTML = `${firstBox.textContent}<sub>${secondIon[0] == 1 ? "" : secondIon[0]}</sub>`;
+                resultLeft.innerHTML = `${secondBox.textContent}<sub>${
+                  firstIon[0] == 1 ? "" : firstIon[0]
+                }</sub>`;
+                resultRight.innerHTML = `${firstBox.textContent}<sub>${
+                  secondIon[0] == 1 ? "" : secondIon[0]
+                }</sub>`;
               }
             }
           }
@@ -109,19 +127,19 @@ function fetchJSONData() {
           resultRight.textContent = "";
         }
       });
-      
-      const clear = document.getElementById("clear")
-      clear.addEventListener('click', () => {
-        resultLeft.innerHTML = ""
-        resultRight.innerHTML = ""
-        firstBox.innerHTML = ""
-        secondBox.innerHTML = ""
+
+      const clear = document.getElementById("clear");
+      clear.addEventListener("click", () => {
+        resultLeft.innerHTML = "";
+        resultRight.innerHTML = "";
+        firstBox.innerHTML = "";
+        secondBox.innerHTML = "";
         firstSelected = null;
         firstIon = null;
         secondIon = null;
         firstLastLayer = null;
         secondLastLayer = null;
-      })
+      });
     })
     .catch((error) => console.error("Unable to fetch data:", error));
 }
