@@ -35,17 +35,16 @@ fetch("/data/data.json")
             <h1>نام اتم: ${atom.name}</h1>
           </div>
           <div class="layers">
-            <h1>زیر لایه های اتم ${atom.name}: ${
-        configuration ? configuration : "error"
-      }</h1>
-      <h1>گروه: ${atom.group}</h1>
+            <h1>زیر لایه های اتم ${atom.name}:</h1>
+            <p>${configuration ? configuration : "error"}</p>
+      <h1>دسته: ${atom.group}</h1>
           </div>
           <div class="teif">
             <h1>طیف نشری اتم ${atom.name}: </h1>
             <img src="${atom.spectrum}" width="40%" />
           </div>
           <div class="lweis">
-            <h1>ساختار لوویس اتم ${atom.name}: </h1>
+            <h1>ساختار الکترون نقطه ای اتم ${atom.name}: </h1>
             <div class="shape">
               <h2>${atom.symbol}</h2>
               ${circles}

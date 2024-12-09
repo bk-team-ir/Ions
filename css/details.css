@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 @font-face {
   font-family: vazir;
   src: url(/assets/fonts/Vazirmatn-Regular.woff2);
@@ -26,7 +30,7 @@ body {
 }
 
 .box .nums {
-  height: 80%;
+  height: 90%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -69,7 +73,7 @@ body {
   flex-direction: row;
   align-items: center;
   position: absolute;
-    top: 250px;
+  top: 250px;
 }
 
 .teif h1 {
@@ -109,7 +113,7 @@ body {
   align-items: center;
   position: relative;
 }
- 
+
 .shape .circle {
   width: 10px;
   height: 10px;
@@ -118,11 +122,148 @@ body {
   position: absolute;
 }
 
-.circle.c1 {top: 0; right: 55%;} /* top */
-.circle.c2 {top: 35%; right: 0;} /* right */
-.circle.c3 {top: 85%; right: 55%;} /* bottom */
-.circle.c4 {top: 35%; right: 90%;} /* left */
-.circle.c5 {top: 0; right: 40%;} /* top */
-.circle.c6 {top: 50%; right: 0;} /* right */
-.circle.c7 {top: 85%; right: 40%;} /* bottom */
-.circle.c8 {top: 50%; right: 90%;} /* left */
+.circle.c1 {
+  top: 0;
+  right: 55%;
+} /* top */
+.circle.c2 {
+  top: 35%;
+  right: 0;
+} /* right */
+.circle.c3 {
+  top: 85%;
+  right: 55%;
+} /* bottom */
+.circle.c4 {
+  top: 35%;
+  right: 90%;
+} /* left */
+.circle.c5 {
+  top: 0;
+  right: 40%;
+} /* top */
+.circle.c6 {
+  top: 50%;
+  right: 0;
+} /* right */
+.circle.c7 {
+  top: 85%;
+  right: 40%;
+} /* bottom */
+.circle.c8 {
+  top: 50%;
+  right: 90%;
+} /* left */
+
+footer {
+  width: 95%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  bottom: 5px;
+}
+
+footer p {
+  color: #ffffff80;
+}
+
+footer a {
+  color: #ffffff80;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .box {
+    width: 100px;
+    height: 100px;
+    right: 65%;
+  }
+
+  .box h2 {
+    font-size: 45px;
+  }
+
+  .box sup {
+    font-size: 20px;
+  }
+
+  .box sub {
+    font-size: 20px;
+  }
+
+  .name {
+    right: 40px;
+  }
+
+  h1 {
+    font-size: 35px;
+  }
+
+  .layers {
+    top: 130px;
+    right: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .layers h1 {
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 15px;
+  }
+
+  .layers p {
+    font-size: 15px;
+  }
+
+  .layers h1:last-child {
+    margin: 10px 0;
+  }
+
+  .teif {
+    top: 250px;
+    right: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .teif h1 {
+    font-size: 20px;
+  }
+
+  .teif img {
+    width: 80%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .lweis {
+    width: 90%;
+    top: 480px;
+    right: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .lweis h1 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+
+  .lweis .shape {
+    margin: 0 auto;
+  }
+
+  footer {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    top: calc(100% + 50px);
+  }
+}

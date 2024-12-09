@@ -54,7 +54,7 @@
       "atomicNum": 6,
       "name": "کربن",
       "symbol": "C",
-      "ion": "4-",
+      "ion": "",
       "group": "p",
       "status": 0,
       "tableGroup": 4,
@@ -134,7 +134,7 @@
       "atomicNum": 14,
       "name": "سیلیسیم",
       "symbol": "Si",
-      "ion": "4+",
+      "ion": "",
       "group": "p",
       "status": 0,
       "tableGroup": 4,
@@ -200,106 +200,7 @@
       "tableGroup": 2,
       "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Calcium_spectrum_visible.png/1200px-Calcium_spectrum_visible.png"
     },
-    {
-      "atomicNum": 21,
-      "name": "اسکاندیم",
-      "symbol": "Sc",
-      "ion": "3+",
-      "group": "d",
-      "status": 1,
-      "tableGroup": 3,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scandium_spectrum_visible.png/1200px-Scandium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 22,
-      "name": "تیتانیوم",
-      "symbol": "Ti",
-      "ion": "4+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 4,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Titanium_spectrum_visible.png/1200px-Titanium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 23,
-      "name": "وانادیوم",
-      "symbol": "V",
-      "ion": "5+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 5,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanadium_spectrum_visible.png/1200px-Vanadium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 24,
-      "name": "کروم",
-      "symbol": "Cr",
-      "ion": "6+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 6,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chromium_spectrum_visible.png/1200px-Chromium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 25,
-      "name": "منگنز",
-      "symbol": "Mn",
-      "ion": "7+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 7,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manganese_spectrum_visible.png/1200px-Manganese_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 26,
-      "name": "آهن",
-      "symbol": "Fe",
-      "ion": "2+/3+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 8,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Iron_spectrum_visible.png/1200px-Iron_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 27,
-      "name": "کبالت",
-      "symbol": "Co",
-      "ion": "2+/3+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 9,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cobalt_spectrum_visible.png/1200px-Cobalt_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 28,
-      "name": "نیکل",
-      "symbol": "Ni",
-      "ion": "2+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 0,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nickel_spectrum_visible.png/1200px-Nickel_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 29,
-      "name": "مس",
-      "symbol": "Cu",
-      "ion": "1+/2+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 1,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copper_spectrum_visible.png/1200px-Copper_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 30,
-      "name": "روی",
-      "symbol": "Zn",
-      "ion": "2+",
-      "group": "d",
-      "status": 1,
-      "tableGroup": 2,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zinc_spectrum_visible.png/1200px-Zinc_spectrum_visible.png"
-    },
+    
     {
       "atomicNum": 31,
       "name": "گالیوم",
@@ -324,7 +225,7 @@
       "atomicNum": 33,
       "name": "آرسنیک",
       "symbol": "As",
-      "ion": "3-",
+      "ion": "",
       "group": "p",
       "status": 0,
       "tableGroup": 5,
@@ -380,106 +281,7 @@
       "tableGroup": 2,
       "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Strontium_spectrum_visible.png/1200px-Strontium_spectrum_visible.png"
     },
-    {
-      "atomicNum": 39,
-      "name": "ایتریم",
-      "symbol": "Y",
-      "ion": "3+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 3,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yttrium_spectrum_visible.png/1200px-Yttrium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 40,
-      "name": "زیرکونیم",
-      "symbol": "Zr",
-      "ion": "4+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 4,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zirconium_spectrum_visible.png/1200px-Zirconium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 41,
-      "name": "نیوبیم",
-      "symbol": "Nb",
-      "ion": "5+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 5,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Niobium_spectrum_visible.png/1200px-Niobium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 42,
-      "name": "مولیبدن",
-      "symbol": "Mo",
-      "ion": "6+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 6,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Molybdenum_spectrum_visible.png/1200px-Molybdenum_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 43,
-      "name": "تکنسیم",
-      "symbol": "Tc",
-      "ion": "7+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 7,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Technetium_spectrum_visible.png/1200px-Technetium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 44,
-      "name": "روتنیم",
-      "symbol": "Ru",
-      "ion": "4+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 8,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruthenium_spectrum_visible.png/1200px-Ruthenium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 45,
-      "name": "رودیم",
-      "symbol": "Rh",
-      "ion": "",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 8,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/1200px-Rhodium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 46,
-      "name": "پالادیم",
-      "symbol": "Pd",
-      "ion": "2+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 9,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/1200px-Rhodium_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 47,
-      "name": "نقره",
-      "symbol": "Ag",
-      "ion": "1+",
-      "group": "d",
-      "status": 1,
-      "tableGroup": 0,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Silver_spectrum_visible.png/1200px-Silver_spectrum_visible.png"
-    },
-    {
-      "atomicNum": 48,
-      "name": "کادمیم",
-      "symbol": "Cd",
-      "ion": "2+",
-      "group": "d",
-      "status": 0,
-      "tableGroup": 2,
-      "spectrum": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cadmium_spectrum_visible.png/1200px-Cadmium_spectrum_visible.png"
-    },
+    
     {
       "atomicNum": 49,
       "name": "ایندیم",
@@ -504,7 +306,7 @@
       "atomicNum": 51,
       "name": "آنتیموان",
       "symbol": "Sb",
-      "ion": "3-",
+      "ion": "",
       "group": "p",
       "status": 0,
       "tableGroup": 5,
@@ -514,7 +316,7 @@
       "atomicNum": 52,
       "name": "تلوریم",
       "symbol": "Te",
-      "ion": "2-",
+      "ion": "",
       "group": "p",
       "status": 0,
       "tableGroup": 6,

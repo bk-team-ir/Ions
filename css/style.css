@@ -18,15 +18,15 @@ button {
 }
 
 #invoke {
-  width: 30%;
-  height: 200px;
+  width: 500px;
+  height: 180px;
   border: 1px solid #fff;
-  margin-right: 270px;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 #invoke div {
@@ -45,13 +45,13 @@ button {
   border-radius: 5px;
   background-color: transparent;
   cursor: pointer;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 #invoker:hover {
-  background-color: rgb(67, 255, 67);;
+  background-color: rgb(67, 255, 67);
   color: #000;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 .buttons {
@@ -102,7 +102,7 @@ button {
 
 #table {
   display: grid;
-  grid-template-columns: 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px;
+  grid-template-columns: 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px;
   gap: 5px;
 }
 
@@ -114,20 +114,24 @@ button {
   cursor: pointer;
 }
 
-.box[disabled] {
-  cursor: not-allowed;
-}
-
 .box:nth-child(2) {
-  grid-column: 18;
+  grid-column: 10;
 }
 
 .box:nth-child(5) {
-  grid-column: 13;
+  grid-column: 5;
 }
 
 .box:nth-child(13) {
-  grid-column: 13;
+  grid-column: 5;
+}
+
+.box:nth-child(21) {
+  grid-column: 5;
+}
+
+.box:nth-child(29) {
+  grid-column: 5;
 }
 
 .box.s {
@@ -170,4 +174,71 @@ button {
 
 .group {
   display: none;
+}
+
+@media only screen and (max-width: 480px) {
+  #invoke {
+    width: 350px;
+    margin-bottom: 100px;
+  }
+
+  #invoke button {
+    padding: 5px 25px;
+  }
+
+  #table {
+    grid-template-columns: 45px 45px 45px 45px 45px 45px 45px;
+  }
+
+  .box {
+    height: 45px;
+    width: 45px;
+  }
+
+  .box:nth-child(2) {
+    grid-column: 8;
+  }
+
+  .box:nth-child(5) {
+    grid-column: 3;
+  }
+
+  .box:nth-child(13) {
+    grid-column: 3;
+  }
+
+  .box:nth-child(21) {
+    grid-column: 3;
+  }
+
+  .box:nth-child(29) {
+    grid-column: 3;
+  }
+
+  .box span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .box span h2 {
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  .box span sub {
+    align-self: flex-end;
+    margin-right: 3px;
+    font-size: 10px;
+  }
+
+  .box span sup {
+    align-self: flex-start;
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .box p {
+    font-size: 10px;
+  }
 }
